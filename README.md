@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-sherif-developer&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-sherif-developer&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-sherif-developer&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamed-sherif-developer&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:mohamedsherifrash@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedsherifrash@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
